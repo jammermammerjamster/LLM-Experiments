@@ -3,3 +3,4 @@ creds.txt
 creds.enc
 Air_LLM/key.txt
 Air_LLM/creds.enc
+__pychace__/*
